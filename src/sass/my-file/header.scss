@@ -1,0 +1,186 @@
+
+header{
+	background: #1B969E;	
+}
+
+.header__block{
+	height: 32px;
+}
+.header__list{
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+margin-top: 5px;
+}
+.header__list a{
+	text-decoration: none;
+	color: white;
+}
+	.header__list  li{
+	list-style: none;
+	margin-left: 20px;
+}
+.logo{
+padding-top: 30px;
+position: relative;
+}
+.logo__txt{
+	margin-left: 30px;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 21px;
+}
+.logo__txt span{
+	font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 19px;
+color: #1B969E;
+}
+.logo__img1{
+	position: relative;
+	z-index: 1;
+}
+.logo__img2{
+	position:absolute;
+	left: -22px;
+	top: -10px;
+}
+.tel__1 img{
+margin-right: 10px;
+}
+.tel__1 span{
+margin-right: 10px;
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: 15px;
+color: #888888;
+
+}
+.tel__2{
+font-family: Roboto;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+}
+.icon img{
+	margin-right: 20px;
+}
+.input1{
+	height: 50px;
+    width: 172px;
+    max-width: 100%;
+    border-radius: 30px;
+    background-image: url('../img/shopping-cart 1.png') ;
+    background-repeat: no-repeat;
+    background-position: 12px center;
+    padding-left: 55px;
+    border: none;
+}
+.colo1{
+	width: 26px;
+	height: 26px;
+	background: #FF7A00;
+	position: absolute;
+	border-radius: 50%;
+	color: white;
+	text-align: center;
+	top: 0px;
+	left: 75px;
+	z-index: 2;
+}
+.icon{
+	position: relative;
+}
+.icon__input{
+	position: relative
+}
+.colo2{
+		width: 26px;
+	height: 26px;
+	background: #FF0000;
+	position: absolute;
+	border-radius: 50%;
+	color: white;
+	text-align: center;
+	top: 0px;
+	left: 30px;
+	z-index: 2;
+}
+
+.header__finish{
+padding-top: 40px;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 19px;
+}
+.header__finish--menu a{
+	text-decoration: none;
+	color: black;
+}
+.header__finish--menu li{
+list-style: none;
+margin-right: 20px;
+}
+.header__finish--menu li:hover{
+border-bottom: 2px solid #1B969E;
+padding-bottom: 5px;
+}
+.grin__line{
+	border-bottom: 2px solid #1B969E;
+    padding-bottom: 5px;
+}
+.header__2{
+	background: #EBFEFF;
+height: 382px;
+width: 100%;
+
+}
+.block__3 span{
+margin-left: 15px;
+}
+.block__3 span:hover{
+	border-bottom: 2px solid #1B969E;
+padding-bottom: 5px;
+}
+.block__3 a{
+	text-decoration: none;
+	color: black
+}
+
+.sub-menu__list{
+	position: absolute;
+	left: 0;
+	top: -70px;
+	padding-bottom: 30px;
+ display: none;
+}
+.header__finish li{
+	position: relative;
+}
+.menu__list>li:hover .sub-menu__list{
+	display: block;
+}
+
+.menu__arrow{
+
+}
+.arrow{
+	width: 0;
+	height: 0;
+	border-top:6px solid black;
+	border-left:6px solid transparent;
+    border-right:6px solid transparent;
+    position: absolute;
+    left: 100px;
+    top: 5px;
+}

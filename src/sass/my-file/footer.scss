@@ -1,0 +1,147 @@
+.footer{
+	background: #BEFAFE;
+
+}
+.footer__txt{
+height: 129px;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+margin-top: 10px;
+color: #026970;
+ display: flex;
+ align-items: center;
+
+}
+.footer__txt2{
+height: 129px;
+ display: flex;
+ align-items: center;
+}
+.footer__txt2 input{
+padding-left:  10px;
+height: 40px;
+width: 350px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border: none;
+
+}
+.footer__txt2 button{
+position:relative;
+left: -10px;
+height: 42px;
+width: 120px;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px;
+color: white;
+background:#1B969E;
+border-radius: 24px;
+  border: none;
+}
+
+.footer2{
+	 background:#026970;
+}
+.footer2__left h3{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 23px;
+color: white;
+
+}
+.footer2__left p{
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+color: white;
+
+
+}
+.footer2 a{
+ text-decoration: none;
+ color: white;
+}
+.footer2__centr h3{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 23px;
+color: white;
+
+}
+.footer2__right h3{
+	text-align: right;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 23px;
+color: white;
+
+}
+.footer2__right p{
+	text-align: right;
+font-family: Roboto;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+color: white;
+}
+.f2{
+text-align: right;
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 15px;
+color: white;
+}
+.icon2{
+margin-top: 30px;
+text-align: right;
+}
+.icon2 img{
+margin-left: 10px;
+}
+.finish{
+	margin-top:150px;
+	border-top: 1px solid white;
+}
+.finish__txt{
+	margin: 20px 0 20px;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+color: white;
+}
+.finish__card{
+	margin: 20px 0 20px;
+	font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+color: white;
+}
+.finish__card img{
+	margin-left: 20px;
+	border-radius:5px;
+}
